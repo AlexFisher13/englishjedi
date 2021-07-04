@@ -1,5 +1,4 @@
 document.write(
-    "<header><a href=\"index.html\"><h1 id=\"jedi\">EnglishJedi</h1></a></header>" +
     "<nav class='pushy pushy-left' data-focus='#first-link'>\n" +
     "    <div class='pushy-content'>\n" +
     "        <ul>\n" +
