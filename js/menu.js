@@ -11,6 +11,7 @@ document.write(
     "                </ul>\n" +
     "            </li>\n" +
     "            <li class='pushy-link'><a href='/englishjedi/pages/modal.html'>Modal verbs</a></li>\n" +
+    "            <li class='pushy-link'><a href='/englishjedi/pages/fun.html'>Fun</a></li>\n" +
     "        </ul>\n" +
     "    </div>\n" +
     "</nav>")
